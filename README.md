@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-배포 링크:
+배포 링크: [wonje-emotion-diary.vercel.app](https://wonje-emotion-diary.vercel.app)
 
 ## 커스터마이징한 부분
 
